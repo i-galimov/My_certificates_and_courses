@@ -58,7 +58,7 @@ int	main(int argc, char **argv)
 ```
 ### Work experience:
 * ***Telecom Services Sales Agent*** **2014-2020**
-* ***Manager of the active sales group*** **2020-2021**
+* ***Manager Of The Active Sales Group*** **2020-2021**
 
 ### Education and courses
 * **Bachelor of Management (Kazan Federal University)**
