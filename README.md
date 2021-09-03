@@ -14,6 +14,7 @@ I am a man of many talents:
 *  **Internet Marketing**,
 *  **Programming**
 *  **Guitar**. 
+
 I am open to new knowledge!
 
 ### Code example:
