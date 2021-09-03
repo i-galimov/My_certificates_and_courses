@@ -3,7 +3,7 @@
 ### Contact information:
 **Phone:** +7(843)50-50-057
 **E-mail:** ilshat999.galimov@yandex.ru
-**GitHub:**[i-galimov](https://github.com/i-galimov)
+**GitHub:** [i-galimov](https://github.com/i-galimov)
 
 ### About Myself
 I am a man of many talents: **Chess**, **Basketball**, **Table Tennis**, **Sales**, **Internet Marketing**, **Programming**, **Guitar**. I am open to new knowledge!
