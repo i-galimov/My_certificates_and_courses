@@ -13,7 +13,7 @@ I am a man of many talents:
 *  **Sales**
 *  **Internet Marketing**,
 *  **Programming**
-*  **Guitar**. 
+*  **Guitar**
 
 I am open to new knowledge!
 
