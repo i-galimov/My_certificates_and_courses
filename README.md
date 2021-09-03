@@ -75,7 +75,7 @@ int	main(int argc, char **argv)
 * **C\C++** (basic)
 * **Java Script** (basic)
 * **Java** (basic)
-* **Relational SQL** (basic)
+* Relational **SQL** (basic)
 * **Shell**
 
 ### Languages
