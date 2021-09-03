@@ -66,7 +66,7 @@ int	main(int argc, char **argv)
 * [**Skolkovo SKlab Certificate**](https://github.com/i-galimov/My_certificates_and_courses/blob/main/Skolkovo_SClab_Certificate.pdf)
 * [**Internet-marketing (Google Skills) Certificate**](https://github.com/i-galimov/My_certificates_and_courses/blob/main/Google_skills_internet_marketing_Certificate.pdf)
 * [**Agile Certificate**](https://github.com/i-galimov/My_certificates_and_courses/blob/main/Agile_Certificate.pdf)
-* [**And other**](https://github.com/i-galimov/My_certificates_and_courses)
+* [**Other**](https://github.com/i-galimov/My_certificates_and_courses)
 
 ### Skills
 * **HTML**, **Markdown**, **CSS**
