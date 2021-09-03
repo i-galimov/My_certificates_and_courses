@@ -1,12 +1,20 @@
 # Ilshat Galimov
 
 ### Contact information:
-**Phone:** +7(843)50-50-057
-**E-mail:** ilshat999.galimov@yandex.ru
-**GitHub:** [i-galimov](https://github.com/i-galimov)
+* **Phone:** +7(843)50-50-057
+* **E-mail:** ilshat999.galimov@yandex.ru
+* **GitHub:** [i-galimov](https://github.com/i-galimov)
 
 ### About Myself
-I am a man of many talents: **Chess**, **Basketball**, **Table Tennis**, **Sales**, **Internet Marketing**, **Programming**, **Guitar**. I am open to new knowledge!
+I am a man of many talents: 
+* **Chess** 
+* **Basketball** 
+* **Table Tennis**
+*  **Sales**
+*  **Internet Marketing**,
+*  **Programming**
+*  **Guitar**. 
+I am open to new knowledge!
 
 ### Code example:
 ```
@@ -56,8 +64,8 @@ int	main(int argc, char **argv)
 * **Master of Quality Management (Kazan National Research Technological University)**
 * [**Skolkovo SKlab Certificate**](https://github.com/i-galimov/My_certificates_and_courses/blob/main/Skolkovo_SClab_Certificate.pdf)
 * [**Internet-marketing (Google Skills) Certificate**](https://github.com/i-galimov/My_certificates_and_courses/blob/main/Google_skills_internet_marketing_Certificate.pdf)
-* [**Adgile Certificate**](https://github.com/i-galimov/My_certificates_and_courses/blob/main/Agile_Certificate.pdf)
-* [And other](https://github.com/i-galimov/My_certificates_and_courses)
+* [**Agile Certificate**](https://github.com/i-galimov/My_certificates_and_courses/blob/main/Agile_Certificate.pdf)
+* [**And other**](https://github.com/i-galimov/My_certificates_and_courses)
 
 ### Skills
 * **HTML**, **Markdown**, **CSS**
