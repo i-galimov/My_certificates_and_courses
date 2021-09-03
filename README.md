@@ -5,7 +5,7 @@
 * **E-mail:** ilshat999.galimov@yandex.ru
 * **GitHub:** [i-galimov](https://github.com/i-galimov)
 
-### About Myself
+### About Myself:
 I am a man of many talents: 
 * **Chess** 
 * **Basketball** 
@@ -60,7 +60,7 @@ int	main(int argc, char **argv)
 * ***Telecom Services Sales Agent*** **2014-2020**
 * ***Manager Of The Active Sales Group*** **2020-2021**
 
-### Education and courses
+### Education and courses:
 * **Bachelor of Management (Kazan Federal University)**
 * **Master of Quality Management (Kazan National Research Technological University)**
 * [**Skolkovo SKlab Certificate**](https://github.com/i-galimov/My_certificates_and_courses/blob/main/Skolkovo_SClab_Certificate.pdf)
@@ -68,7 +68,7 @@ int	main(int argc, char **argv)
 * [**Agile Certificate**](https://github.com/i-galimov/My_certificates_and_courses/blob/main/Agile_Certificate.pdf)
 * [**Other**](https://github.com/i-galimov/My_certificates_and_courses)
 
-### Skills
+### Skills:
 * **HTML**, **Markdown**, **CSS**
 * Version control **Git** (remote service GitHub)
 * **Python** (basic)
@@ -78,7 +78,7 @@ int	main(int argc, char **argv)
 * Relational **SQL** (basic)
 * **Shell**
 
-### Languages
+### Languages:
 * **Russian** - native
 * **English** - A2
 * **Deutsch** - A1
