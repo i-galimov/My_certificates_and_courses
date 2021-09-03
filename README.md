@@ -84,4 +84,5 @@ int	main(int argc, char **argv)
 * **Deutsch** - A1
 
 > *"Knowledge is power."* - Francis Bacon
+
 ![](https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010__340.jpg)
