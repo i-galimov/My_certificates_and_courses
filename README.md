@@ -65,7 +65,7 @@ int	main(int argc, char **argv)
 * **Master of Quality Management (Kazan National Research Technological University)**
 * [**Skolkovo SKlab Certificate**](https://github.com/i-galimov/My_certificates_and_courses/blob/main/Skolkovo_SClab_Certificate.pdf)
 * [**Internet-marketing (Google Skills) Certificate**](https://github.com/i-galimov/My_certificates_and_courses/blob/main/Google_skills_internet_marketing_Certificate.pdf)
-* [**Agile Certificate**](https://github.com/i-galimov/My_certificates_and_courses/blob/main/Agile_Certificate.pdf)
+* [**Data Science (HSE University)**](https://github.com/i-galimov/My_certificates_and_courses/blob/main/HSE_Data_Science_Certificate.jpg)
 * [**Other**](https://github.com/i-galimov/My_certificates_and_courses)
 
 ### Skills:
