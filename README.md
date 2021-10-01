@@ -20,7 +20,6 @@ I am open to new knowledge!
 ### Code example on C:
 ```
 #include <unistd.h>
-#include <stdio.h>
 
 int	ft_strlen(char *str)
 {
