@@ -17,7 +17,7 @@ I am a man of many talents:
 
 I am open to new knowledge!
 
-### Code example:
+### Code example on C:
 ```
 #include <unistd.h>
 #include <stdio.h>
@@ -56,6 +56,48 @@ int	main(int argc, char **argv)
 		ft_revprint(argv[1]);
 }
 ```
+### Code example on Python:
+```
+import random
+
+len_all = len(base_dict) 
+print(f'Всего {len_all} слов в словаре')
+user_input = input('Введите слово или фразу на английском, которые хотите перевести, или цифры, чтобы сгенерировать случайную фразу\n')
+check_type = user_input.isdigit()
+if check_type == False:
+	user_input = user_input.lower().split()
+else:
+	user_input = int(user_input)
+
+def fn_translate(user_input):
+    count_not_dict = 0 
+    count_dict = 0 
+    for element in user_input:
+      if element in base_dict:
+      	print(element, base_dict[element])
+      	count_dict += 1
+      elif element not in base_dict:
+      	print(element, "?")
+      	count_not_dict += 1
+    count_all_dict = count_dict + count_not_dict 
+    percent_dict = (count_dict / count_all_dict) * 100 
+    print(f'Всего использовано {count_all_dict} слов\nУдалось перевести {count_dict} слов\nНе удалось найти {count_not_dict} слов\nПереведено {percent_dict} процентов текста')
+
+def fn_random_word(user_input):
+        if user_input > 50:
+        	print("Слишком большое число, придумаем 50 слов")
+        	user_input = 50
+        while user_input > 0:
+        	en_random = random.choice(list(base_dict.keys()))
+        	print(en_random)
+        	user_input -= 1
+		
+if check_type == True:
+	fn_random_word(user_input)
+else:
+	fn_translate(user_input)
+```
+
 ### Work experience:
 * ***Telecom Services Sales Agent*** **2014-2020**
 * ***Manager Of The Active Sales Group*** **2020-2021**
