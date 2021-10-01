@@ -74,7 +74,6 @@ int	main(int argc, char **argv)
 * **Python** (basic)
 * **C\C++** (basic)
 * **Java Script** (basic)
-* **Java** (basic)
 * Relational **SQL** (basic)
 * **Shell**
 
