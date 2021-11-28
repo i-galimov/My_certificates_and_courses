@@ -11,7 +11,7 @@ I am a man of many talents:
 * **Basketball** 
 * **Table Tennis**
 *  **Sales**
-*  **Internet Marketing**,
+*  **Internet Marketing**
 *  **Programming**
 *  **Guitar**
 
