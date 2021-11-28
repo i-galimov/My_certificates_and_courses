@@ -1,7 +1,7 @@
 # Ilshat Galimov
 
 ### Contact information:
-* **Phone:** +7(843)50-50-057
+* **Phone and Telegram** +7(937)2997666
 * **E-mail:** ilshat999.galimov@yandex.ru
 * **GitHub:** [i-galimov](https://github.com/i-galimov)
 
