@@ -19,38 +19,56 @@ I am open to new knowledge!
 
 ### Code example on C:
 ```
-#include <unistd.h>
+#include "ft_printf.h"
 
-int	ft_strlen(char *str)
+void	ft_define_print(const char *format, va_list ap, int *i)
 {
-	int	i;
+	if (*format == 'c')
+		ft_putchar(va_arg(ap, int), i);
+	else if (*format == 's')
+		ft_putstr(va_arg(ap, char *), i);
+	else if (*format == 'p')
+		ft_putpointer(va_arg(ap, unsigned long long), i);
+	else if (*format == 'd' || *format == 'i')
+		ft_putnbr(va_arg(ap, int), i);
+	else if (*format == 'u')
+		ft_putplusnbr(va_arg(ap, unsigned int), i);
+	else if (*format == 'x')
+		ft_lower_hexadecimal(va_arg(ap, unsigned int), i);
+	else if (*format == 'X')
+		ft_upper_hexadecimal(va_arg(ap, unsigned int), i);
+	else if (*format == '%')
+		ft_putchar('%', i);
+	else
+	{
+		write(1, format, 1);
+		i++;
+	}
+}
+
+int	ft_printf(const char *format, ...)
+{
+	va_list	ap;
+	int		i;
 
 	i = 0;
-	while(str[i])
-		i++;
-	return (i);
-}
-
-char *ft_revprint(char *str)
-{
-	int	count;
-	
-	count = ft_strlen(str);
-	while(count > 0)
+	va_start(ap, format);
+	while (*format)
 	{
-		write(1, &str[count - 1], 1);
-		count--;
+		if (*format != '%')
+		{
+			write(1, format, 1);
+			format++;
+			i++;
+		}
+		if (*format == '%')
+		{
+			ft_define_print(++format, ap, &i);
+			format++;
+		}
 	}
-	write(1, "\n", 1);
-	return (str);
-}
-
-int	main(int argc, char **argv)
-{
-	if (argc != 2)
-		write(1, "\n", 1);
-	else
-		ft_revprint(argv[1]);
+	va_end(ap);
+	return (i);
 }
 ```
 ### Code example on Python:
