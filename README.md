@@ -22,6 +22,8 @@
 * Relational **SQL** (basic)
 * **Shell**
 
+I am open to new knowledge!
+
 ### Code example on C:
 ```
 #include "ft_printf.h"
@@ -126,8 +128,6 @@ I am a man of many talents:
 *  **Internet Marketing**
 *  **Programming**
 *  **Guitar**
-
-I am open to new knowledge!
 
 ### Work experience:
 * ***Telecom Services Sales Agent*** **2014-2020**
