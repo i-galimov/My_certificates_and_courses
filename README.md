@@ -5,17 +5,22 @@
 * **E-mail:** ilshat999.galimov@yandex.ru
 * **GitHub:** [i-galimov](https://github.com/i-galimov)
 
-### About Myself:
-I am a man of many talents: 
-* **Chess** 
-* **Basketball** 
-* **Table Tennis**
-*  **Sales**
-*  **Internet Marketing**
-*  **Programming**
-*  **Guitar**
+### Education and courses:
+* **Bachelor of Management (Kazan Federal University)**
+* **Master of Quality Management (Kazan National Research Technological University)**
+* [**Skolkovo SKlab Certificate**](https://github.com/i-galimov/My_certificates_and_courses/blob/main/Skolkovo_SClab_Certificate.pdf)
+* [**Internet-marketing (Google Skills) Certificate**](https://github.com/i-galimov/My_certificates_and_courses/blob/main/Google_skills_internet_marketing_Certificate.pdf)
+* [**Data Science (HSE University)**](https://github.com/i-galimov/My_certificates_and_courses/blob/main/HSE_Data_Science_Certificate.jpg)
+* [**Other**](https://github.com/i-galimov/My_certificates_and_courses)
 
-I am open to new knowledge!
+### Skills:
+* **HTML**, **Markdown**, **CSS**
+* Version control **Git** (remote service GitHub)
+* **Python** (basic)
+* **C\C++** (basic)
+* **Java Script** (basic)
+* Relational **SQL** (basic)
+* **Shell**
 
 ### Code example on C:
 ```
@@ -112,27 +117,20 @@ if check_type == True:
 else:
 	fn_translate(user_input)
 ```
+### About Myself:
+I am a man of many talents: 
+* **Chess** 
+* **Basketball** 
+* **Table Tennis**
+*  **Sales**
+*  **Internet Marketing**
+*  **Programming**
+*  **Guitar**
+I am open to new knowledge!
 
 ### Work experience:
 * ***Telecom Services Sales Agent*** **2014-2020**
 * ***Manager Of The Active Sales Group*** **2020-2021**
-
-### Education and courses:
-* **Bachelor of Management (Kazan Federal University)**
-* **Master of Quality Management (Kazan National Research Technological University)**
-* [**Skolkovo SKlab Certificate**](https://github.com/i-galimov/My_certificates_and_courses/blob/main/Skolkovo_SClab_Certificate.pdf)
-* [**Internet-marketing (Google Skills) Certificate**](https://github.com/i-galimov/My_certificates_and_courses/blob/main/Google_skills_internet_marketing_Certificate.pdf)
-* [**Data Science (HSE University)**](https://github.com/i-galimov/My_certificates_and_courses/blob/main/HSE_Data_Science_Certificate.jpg)
-* [**Other**](https://github.com/i-galimov/My_certificates_and_courses)
-
-### Skills:
-* **HTML**, **Markdown**, **CSS**
-* Version control **Git** (remote service GitHub)
-* **Python** (basic)
-* **C\C++** (basic)
-* **Java Script** (basic)
-* Relational **SQL** (basic)
-* **Shell**
 
 ### Languages:
 * **Russian** - native
